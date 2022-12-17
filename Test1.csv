@@ -1,27 +1,3 @@
 name,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,intermediate-region,region-code,sub-region-code,intermediate-region-code
 Afghanistan,AF,AFG,004,ISO 3166-2:AF,Asia,Southern Asia,"",142,034,""
 Åland Islands,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,"",150,154,""
-Albania,AL,ALB,008,ISO 3166-2:AL,Europe,Southern Europe,"",150,039,""
-Algeria,DZ,DZA,012,ISO 3166-2:DZ,Africa,Northern Africa,"",002,015,""
-American Samoa,AS,ASM,016,ISO 3166-2:AS,Oceania,Polynesia,"",009,061,""
-Andorra,AD,AND,020,ISO 3166-2:AD,Europe,Southern Europe,"",150,039,""
-Angola,AO,AGO,024,ISO 3166-2:AO,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
-Anguilla,AI,AIA,660,ISO 3166-2:AI,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Antarctica,AQ,ATA,010,ISO 3166-2:AQ,"","","","","",""
-Antigua and Barbuda,AG,ATG,028,ISO 3166-2:AG,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Argentina,AR,ARG,032,ISO 3166-2:AR,Americas,Latin America and the Caribbean,South America,019,419,005
-Armenia,AM,ARM,051,ISO 3166-2:AM,Asia,Western Asia,"",142,145,""
-Aruba,AW,ABW,533,ISO 3166-2:AW,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Australia,AU,AUS,036,ISO 3166-2:AU,Oceania,Australia and New Zealand,"",009,053,""
-Austria,AT,AUT,040,ISO 3166-2:AT,Europe,Western Europe,"",150,155,""
-Azerbaijan,AZ,AZE,031,ISO 3166-2:AZ,Asia,Western Asia,"",142,145,""
-Bahamas,BS,BHS,044,ISO 3166-2:BS,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Bahrain,BH,BHR,048,ISO 3166-2:BH,Asia,Western Asia,"",142,145,""
-Bangladesh,BD,BGD,050,ISO 3166-2:BD,Asia,Southern Asia,"",142,034,""
-Barbados,BB,BRB,052,ISO 3166-2:BB,Americas,Latin America and the Caribbean,Caribbean,019,419,029
-Belarus,BY,BLR,112,ISO 3166-2:BY,Europe,Eastern Europe,"",150,151,""
-Belgium,BE,BEL,056,ISO 3166-2:BE,Europe,Western Europe,"",150,155,""
-Belize,BZ,BLZ,084,ISO 3166-2:BZ,Americas,Latin America and the Caribbean,Central America,019,419,013
-Benin,BJ,BEN,204,ISO 3166-2:BJ,Africa,Sub-Saharan Africa,Western Africa,002,202,011
-Bermuda,BM,BMU,060,ISO 3166-2:BM,Americas,Northern America,"",019,021,""
-Bhutan,BT,BTN,064,ISO 3166-2:BT,Asia,Southern Asia,"",142,034,""
